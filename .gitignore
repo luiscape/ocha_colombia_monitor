@@ -1,0 +1,9 @@
+.Rhistory
+.Rproj.user
+.RData
+ocha_colombia_monitor.Rproj
+colombia_monitor.tm2/*
+colombia_monitor.tm2/**
+study.R
+eventos_victimas.sql
+sidih_violencia_armada_adicionales.sql
